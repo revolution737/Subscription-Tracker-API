@@ -64,7 +64,7 @@ Make sure you have installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/subscription-tracker-api.git
+git clone https://github.com/revolution737/subscription-tracker-api.git
 cd subscription-tracker-api
 ```
 
