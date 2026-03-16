@@ -10,10 +10,10 @@ const userSchema  = new mongoose.Schema({
     },
     email: {
         type: String,
-        required:P [true, 'User email is required'],
+        required: [true, 'User email is required'],
         trim: true,
         lowercase: true,
-        match: [/\S+@\S+\.S+/, 'Pease fill a valid email address'],
+        match: [/\S+@\S+\.\S+/, 'Pease fill a valid email address'],
     },
     password: {
         type: String,
@@ -22,6 +22,6 @@ const userSchema  = new mongoose.Schema({
     }
 }, { timestamps: true });
 
-export default User;
+const User = mongoose.model('User', userSchema);
 
-User.create()
+export default User;
