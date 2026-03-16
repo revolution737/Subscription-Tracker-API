@@ -191,7 +191,5 @@ This project is for educational and portfolio purposes. Update the license secti
 ## Author
 
 Your Name  
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/revolution737
 ```
-
-Would you like me to make this more accurate to the exact course stack and route names instead of keeping it generic?
