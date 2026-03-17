@@ -186,7 +186,7 @@ For VPS deployment, you can use:
 
 ## License
 
-This project is for educational and portfolio purposes. Update the license section based on how you plan to publish or distribute the repository.
+This project is for educational and portfolio purposes.
 
 ## Author
 
