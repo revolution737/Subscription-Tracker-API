@@ -190,5 +190,6 @@ This project is for educational and portfolio purposes.
 
 ## Author
 
-Krish J
+Krish J 
+
 GitHub: https://github.com/revolution737
