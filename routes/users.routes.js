@@ -12,4 +12,4 @@ userRouter.put('/:id', (req, res) => res.send({ title: 'UPDATE user details' }))
 
 userRouter.delete('/:id', (req, res) => res.send({ title: 'DELETE user details' }))
 
-export default userRouter;
+export default userRouter; 
